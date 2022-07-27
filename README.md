@@ -7,7 +7,9 @@ This voice is distributed under [the Creative Commons Attribution-NoDerivatives 
 * Maryna Herelyuk — Editing of speaker recordings
 * Denis Shishkin AKA Outsider — sound processing
 * Sergey Parshakov AKA Electrik — sound processing
+* Tomasz Bilecki — sound processing
 * Beka Gozalishvili AKA Gozaltech — voice training
+* Zvonimir Stanecic AKA 9a5dsz — voice training
 * Speaker: Volodymyr Beglov (radio host, journalist, lector)
 
 ## Contact us ##
